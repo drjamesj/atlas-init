@@ -1,0 +1,17 @@
+{
+    "name": "atlasphp/init",
+    "description": "Atlas Init",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atlasphp\\Init\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Atlas"
+        }
+    ],
+    "require": {}
+}
